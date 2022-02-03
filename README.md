@@ -37,7 +37,7 @@
 
 ### Method 3
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%amanrajput2001%2FDevilHackerMusic%2Ftree%2FRakesh&envs=SESSION_NAME%2CBOT_TOKEN%2CBOT_USERNAME%2COWNER_ID%2CAPI_HASH%2CAPI_ID&BOT_USERNAMEDefault=DevilTrishaRoBot&OWNER_IDDefault=14621169&API_HASHDefault=61e480d82ff09acbf967ccea4fa2884f&API_IDDefault=14621169)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Famanrajput2001%2FDevilHackerMusic&envs=API_HASH%2CAPI_ID%2CBOT_TOKEN%2CBOT_USERNAME%2COWNER_ID%2CSESSION_NAME&API_HASHDesc=API_HASH+from+my.telegram.org%2Fapps&API_IDDesc=API_ID+from+my.telegram.org%2Fapps&BOT_TOKENDesc=A+Bot+Token+From+%40BotFather&BOT_USERNAMEDesc=Bot+username&OWNER_IDDesc=Your+Telegram+ID&SESSION_NAMEDesc=Pyrogram+Session+String+Get+From+https%3A%2F%2Ft.me%2FJaiHindChatting&referralCode=Vr-DSL)
 
 
 ### 𝙎𝙥𝙚𝙘𝙞𝙖𝙡 𝘾𝙧𝙚𝙙𝙞𝙩𝙨 ⚡
