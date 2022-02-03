@@ -1,9 +1,9 @@
 {
-  "name": "𝐃𝐞𝐯𝐢𝐥 𝐇𝐚𝐜𝐤𝐞𝐫 𝐌𝐮𝐬𝐢𝐜",
+  "name": "𝑨𝒎𝒂𝒏 𝐌𝐮𝐬𝐢𝐜",
   "description": "Bot To Play Songs In TELEGRAM Group Voice Chats. POWERED By PYTGCALLS.",
   "keywords": ["Music", "Voicechat", "Telegram"],
-  "logo": "https://telegra.ph/file/8fddb775d567de8a63940.jpg",
-  "repository": "https://github.com/rakeshyt/DevilHackerMusic",
+  "logo": "https://telegra.ph/file/b27e6357f421e7dc0eb41.jpg",
+  "repository": "https://github.com/amanrajput2001/DevilHackerMusic",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
@@ -17,7 +17,7 @@
     "BOT_USERNAME": {
       "description": "Your Bot Username Without @ ,Get From @BotFather",
       "required": true,
-      "value": "DevilTrishaRoBot"
+      "value": "xxxxbot"
     },
     "API_ID": {
       "description": "API_ID from my.telegram.org/apps",
